@@ -1,32 +1,6 @@
-# Ignore ML model
-vegetable_classification.h5
-
 # Ignore dataset
 Vegetable Images/
 
 # Ignore uploads
 uploads/
 static/uploads/
-# Ignore ML model
-vegetable_classification.h5
-
-# Ignore dataset
-Vegetable Images/
-
-# Ignore uploads
-uploads/
-static/uploads/
-
-
-
-
-# Ignore ML model
-vegetable_classification.h5
-
-# Ignore dataset
-Vegetable Images/
-
-# Ignore uploads
-uploads/
-static/uploads/
-
